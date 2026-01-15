@@ -6,7 +6,7 @@
     <title>Portugees Meesterschap - Statistieken</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        :root { --primary: #2563eb; --success: #22c55e; --danger: #ef4444; }
+        :root { --primary: #000000; --success: #22c55e; --danger: #ef4444; }
         body { font-family: 'Inter', system-ui, sans-serif; background: #f8fafc; color: #000000; user-select: none; }
         
         .neo-brutal { 
